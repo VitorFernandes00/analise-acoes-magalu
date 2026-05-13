@@ -1,3 +1,5 @@
+<img width="1396" height="547" alt="image" src="https://github.com/user-attachments/assets/d808c711-486b-489f-9b18-9af5d41ba212" />
+
 # 📈 Análise de Ações da Magalu
 
 Projeto de análise de dados do mercado financeiro utilizando Python.
