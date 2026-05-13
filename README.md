@@ -1,36 +1,48 @@
 <img width="1396" height="547" alt="image" src="https://github.com/user-attachments/assets/d808c711-486b-489f-9b18-9af5d41ba212" />
 
-# 📈 Análise de Ações da Magalu
+# 📊 Análise de Ações — Magazine Luiza (MGLU3)
 
-Projeto de análise de dados do mercado financeiro utilizando Python.
+Este projeto tem como objetivo realizar uma análise exploratória do comportamento das ações da Magazine Luiza (MGLU3), utilizando Python e bibliotecas de análise de dados.
+---
 
-## 🚀 Tecnologias utilizadas
+## 🎯 Objetivo
 
-- Python
+Explorar dados históricos da ação MGLU3 e identificar padrões como:
+
+- Evolução do preço ao longo do tempo
+- Tendências de alta e baixa
+- Retornos diários e acumulados
+- Volatilidade do ativo
+- Indicadores técnicos básicos (ex: médias móveis)
+
+---
+
+## 🧰 Tecnologias utilizadas
+
+- Python 🐍
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
+- Matplotlib / Seaborn
+- yfinance (ou fonte de dados equivalente)
+- Jupyter Notebook
 
-## 📊 Análises realizadas
+---
 
-- Análise de fechamento das ações
-- Média móvel
-- Média de tendência
-- Boxplot mensal
-- Estatística descritiva
-- Gráfico Candlestick
+## 📈 O que foi analisado
 
-## 📁 Base de Dados
+Neste projeto foram realizados:
 
-Os dados utilizados no projeto foram extraídos de uma planilha Excel contendo informações históricas das ações da Magalu.
+- Coleta de dados históricos da ação MGLU3
+- Limpeza e tratamento dos dados
+- Visualização da série temporal de preços
+- Cálculo de variação diária e retornos acumulados
+- Análise de médias móveis para identificar tendências
 
+---
 
-## 🎯 Objetivo do projeto
+## 📊 Exemplos de insights
 
-Praticar análise de dados utilizando Python e bibliotecas voltadas para visualização gráfica e mercado financeiro.
+- Identificação de períodos de forte valorização e queda
+- Comportamento da volatilidade ao longo do tempo
+- Comparação entre tendências de curto e longo prazo
 
-## 👨‍💻 Autor
-
-Vitor Fernandes
+---
