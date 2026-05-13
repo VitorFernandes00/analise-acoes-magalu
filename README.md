@@ -26,13 +26,6 @@ Projeto de análise de dados do mercado financeiro utilizando Python.
 
 Os dados utilizados no projeto foram extraídos de uma planilha Excel contendo informações históricas das ações da Magalu.
 
-## 📷 Exemplos de gráficos
-
-### Gráfico de Fechamento
-(Adicionar imagem futuramente)
-
-### Boxplot Mensal
-(Adicionar imagem futuramente)
 
 ## 🎯 Objetivo do projeto
 
